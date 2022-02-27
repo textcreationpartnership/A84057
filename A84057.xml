@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Equitable and necessary considerations and resolvtions for association of arms throughout the counties of the kingdom of England, and principality of Wales: Against the now * professed combination of papists, and other enemies of the Protestant religion, and English rights and liberties. *In the Earl of Newcastles declaratió, printed first at York, &amp; since re-printed at London. To be presented to the gentry and commonalty of the county of Middlesex, at their meeting at Hix-hall the 26. of December 1642. And no lesse conducing to the safety of other counties, especially of York-shire, Lancashire, and Cheshire, where the malignant commissioners of Array have been most rampant.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84057</idno>
+            <idno type="STC">Wing E3185</idno>
+            <idno type="STC">Thomason E83_20</idno>
+            <idno type="STC">ESTC R3046</idno>
+            <idno type="EEBO-CITATION">99872262</idno>
+            <idno type="PROQUEST">99872262</idno>
+            <idno type="VID">155635</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84057)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155635)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E83[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Equitable and necessary considerations and resolvtions for association of arms throughout the counties of the kingdom of England, and principality of Wales: Against the now * professed combination of papists, and other enemies of the Protestant religion, and English rights and liberties. *In the Earl of Newcastles declaratió, printed first at York, &amp; since re-printed at London. To be presented to the gentry and commonalty of the county of Middlesex, at their meeting at Hix-hall the 26. of December 1642. And no lesse conducing to the safety of other counties, especially of York-shire, Lancashire, and Cheshire, where the malignant commissioners of Array have been most rampant.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Underhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Asterisk in title directs reader to note on right side of t.p., which reads: "In the Earl of Newcastles Declaratió, printed first at York, &amp; since re-printed at London.".</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newcastle, William Cavendish, --  Duke of, 1592-1676.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155635:1" rendition="simple:additions"/>
+            <p>Equitable and Neceſſary CONSIDERATIONS AND RESOLVTIONS FOR Aſſociation of Arms Throughout The Counties of the kingdom of Eng<g ref="char:EOLhyphen"/>land, and principality of Wales:</p>
+            <p>Againſt the now<note n="*" place="margin">In the Earl of Newcaſtles De<g ref="char:EOLhyphen"/>claratio<g ref="char:cmbAbbrStroke">̄</g>, printed firſt at York, &amp; ſince re-printed at London.</note> profeſſed Com<g ref="char:EOLhyphen"/>bination of Papiſts, and other Enemies of the Proteſtant Religion, and Engliſh Rights and Liberties.</p>
+            <p>To be preſented to the Gentry and Commonalty of the County of <hi>Middleſex,</hi> at their meeting at <hi>Hix-hall</hi> the 26. of December, 1642.</p>
+            <p>And no leſſe conducing to the ſafety of other Counties, eſpecially of <hi>York-ſhire, Lancaſhire,</hi> and <hi>Cheſhire,</hi> where the Malignant Commiſſioners of Array have been moſt rampant.</p>
+            <q>
+               <bibl>
+                  <hi>HAB. 1.13.</hi>
+               </bibl>
+               <p>Wherefore lookest thou on them that deal treacherouſly, and holdeſt thy tongue, when the wicked devoureth the man that is more righteous then he?</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>JUDG. 6.12.</hi>
+               </bibl>
+               <p>The Lord is with thee, thou mighty man of valour.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for THOMAS UNDERHILL. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155635:2"/>
+            <head>Equitable and Chriſtian Conſiderations and Reſolutions of divers worthy and Well-minded Inhabitants of <hi>Middleſex,</hi> publiſhed in Print (rather then communicated in written hand, that they may be more ſpeedily divulged and more readily uſed) by a true Z<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lot of the welfare, as of all the Counties of <hi>England</hi> in generall, ſo eſpecially of that County in particular: For aſſiſtance and ſuccour to the Religious and well-aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted Miniſters and people there re<g ref="char:EOLhyphen"/>ſiding, againſt the injurious and licentious violation of their perſons, liberties and eſtates; By Popiſh, prophane, and other malicious and miſchievous di<g ref="char:EOLhyphen"/>ſturbers of the publike Peace, threatning thereby (as by the like Tyrannie and ſpoil in other places) the utter ruine of the Kingdom, if the true Patriots (in all parts) do not quickly and couragiouſly make head againſt them.</head>
+            <p n="1">1.<seg rend="decorInit">I</seg>T is apparent to all (who are not naturally ſtupid, or wilfully blinde) that of late there is riſen up (in arms) a combination of boyſterous and vio<g ref="char:EOLhyphen"/>lent men, who (uniting themſelves under the ſpecious pretence of loyalty, and ſervice to the King) indeavour to make the breach betwixt His Majeſtie and the high Court of Parliament, unreconciliable, and (with all the power they can raiſe in His Name) ſo to pull down all the Priviledges and Proprieties of this noble Nation, as to make it of a <hi>Kingdom</hi> of ingenuous and free-born Subjects, a <hi>Thraldom</hi> of meer ſervile and ſlaviſh Vaſſalls.</p>
+            <p n="2">2. That theſe men (if we may call them men, who for a great part of them ſeem to have put off the appearance of huma<g ref="char:EOLhyphen"/>nity, by their barbarous manners) have moſt exerciſed their out<g ref="char:EOLhyphen"/>ragious wrongs upon thoſe who have been moſt noted for Reli<g ref="char:EOLhyphen"/>gion, civility, and united fidelity to King and Kingdom.</p>
+            <p n="3">3. That (howſoever they have had, and ſhewed their greateſt ſpight at ſuch) they have ſpoiled many others, who neither in profeſſion nor in affection forted with them;<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <g ref="char:cmbAbbrStroke">̄</g> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x locio <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e quo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ixitd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is edor <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ucr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ex <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>equali<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et.</note> therein making no more differe<g ref="char:cmbAbbrStroke">̄</g>ce betwixt their goods, w<hi rend="sup">ch</hi> they equally love (thogh their perſonall hate be exceſſively bent againſt the beſt in all ſtates) then <hi>Veſpian</hi> did betwixt the money he received from the Impoſt of Urine, &amp; that which came in from the nobleſt tribute.</p>
+            <pb facs="tcp:155635:2"/>
+            <p n="4">4. That being ſuch, it is not like that (of themſelves) they will ſet any reaſonable bounds, to their own proceedings, nor will give over their violent invaſion of the perſons and eſtates of men and women, untill (by ſome adverſe and prevailing power) they be ſtopped.</p>
+            <p n="5">5. That though His Majeſty (as became a good and juſt Prince) hath ſet out ſevere Proclamations againſt plundering of His peo<g ref="char:EOLhyphen"/>ple by the Souldiers of his own Army (and he meaneth not to give that liberty to any other, which he denieth to them) and have engaged his Royall word for the righting of them who ſuf<g ref="char:EOLhyphen"/>fer wrong by their hands; yet we ſee (by ſad experience) that theſe prohibitions produce no further effect, then to cleare His Majeſty from approbation of ſuch notorious injuſtice (for they are not Daunted by a printed paper from their practiſe of pillage, ſince they impute His Majeſties diſlike of ſuch doings, to his ignorance of the priviledge of their military profeſſion, and the oppreſſed are diſcouraged from having recourſe to him for remedy againſt them) for they may have juſt cauſe to fear, that they who claim a licenſe (by the ſword) to carve out of other mens eſtates what portio<g ref="char:cmbAbbrStroke">̄</g> they pleaſe, wil waylay the co<g ref="char:cmbAbbrStroke">̄</g>plainants, and find a way not only to fruſtrate their deſires of relief, but to returne them with an increaſe and aggravation of their injuries.</p>
+            <p n="6">6. That if this ſpirit of violence ſhould march on (as hitherto it hath done) for want of ſeaſonable and ſufficient reſſiſtance, it would prevaile to victory, and by a warlike conqueſt would ſub<g ref="char:EOLhyphen"/>due both King and Kingdom. For although we think ſo well of His Majeſty, and honour him ſo much, that we cannot find in our hearts to make any culpable compariſon betwixt him and the Turke, we muſt needs think ſo ill of them, who have not only withdrawn him, and do yet with-hold him from his moſt wiſe and faithfull Councell (the High Court of Parliament) but abuſe his power, to manage a moſt pernicious hoſtility againſt them, and (in them) againſt the whole ſtate and people of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that they would prove no better then the worſt ſort of Turkiſh Janizaries, (who have ſome times inſolently Lorded it over their own Lords and maſters, ſo as to make him but a Roy<g ref="char:EOLhyphen"/>all
+<pb facs="tcp:155635:3"/>Slave, as well as exerciſed a tyrannicall Domination over his Subjects, though His Majeſties name ſhould ſtill be uſed, and his authority ſtrained up to uphold them, and bear them out in all their exorbitant and abominable exceſſes; And therefore though the King ſhould prove more prudent and conſtant then <hi>Salomon</hi> in perſeverance to defend the faith in the beſt and ſoun<g ref="char:EOLhyphen"/>deſt ſence of His Royall ſtile, and ſhould ſhut his ears to the ſo<g ref="char:EOLhyphen"/>licitations of the Queen, while ſhe opens hers to liſten to the in<g ref="char:EOLhyphen"/>ſpirations of the Popiſh Faction, who have plyed her with per<g ref="char:EOLhyphen"/>ſwaſions to double the ſpirit of her mother upon her, and to make her the midwife of that pernicious Plot, againſt the Proteſtants, which is ſo furiouſly driven on, for their utter deſtruction aſwell in <hi>England</hi> as in <hi>Ireland,</hi> and will draw on the like danger upon <hi>Scotland</hi> and the Netherlands, if they make themſelves but meer ſpectators of our manifold miſeries; <hi>that we muſt expect no ſinceri<g ref="char:EOLhyphen"/>ty or purity</hi> of the Proteſtant Religion to be eſtabliſhed amongſt us, but either the whole Maſſe of Popiſh Superſtition and Idola<g ref="char:EOLhyphen"/>try, to be obtruded upon us, or ſome mungrell compound (like the Childiſh-Dialect, deſcended from the mixt marriage; of the woman of <hi>Aſhdod</hi> with the men of <hi>Iſrael<g ref="char:punc">▪</g>
+               </hi>) made up of many ownces of Popery, Arminianiſme, and carnall Liberty, tempe<g ref="char:EOLhyphen"/>red with a few Drams of Orthodox Doctrine, but without ſo much as one ſcruple of preciſe practiſe in the profeſſion of piety.</p>
+            <p>
+               <hi>No Peace</hi> without ſubmitting our necks to an Iron yoake; No Parliament but ſuch as would eſtabliſh oppreſſion and tyranny by Statute Law, and (beſides other depoſed preſſures) would reſtore the Tyrannicall Prelacy, High-Commiſſion, and Star-Chamber, which (in their returne) will bring (with them) the malignity of ſeven ſpirits, worſe then the former, to make the perſecution of all true and reall Chriſtians (like <hi>Nebuchadnezzers</hi> fiery-furnace) ſeven times hotter then it was before.</p>
+            <p>No Juſtices of Peace but ſuch as are <hi>profeſſed</hi> friends to the Apo<g ref="char:EOLhyphen"/>ſtaticall part of the Parliament, and <hi>fomenters of that burning fea<g ref="char:EOLhyphen"/>ver</hi> (now inflaming the bloud through all the veines of the bo<g ref="char:EOLhyphen"/>dy politick) or <hi>rather of that furious wild-fire</hi> [of the Commiſſion of Array] which hath put the whole Kingdome into a terrible
+<pb facs="tcp:155635:3"/>Combuſtion: and <hi>as profeſſed enemies</hi> to the conſtant part of the Parliament, (the faithfull carefull couragious Patrons of our Religion, Lives, Liberties, and eſtates, who remaine as the ſound, and ſolid wheate, when the hollow and empty chaffe is blowne away) and to thoſe, who in conſcience (out of true grounds of grace, and gratitude) accompt themſelves bound (for the juſt and neceſſary ſecurity of what they deſire to en<g ref="char:EOLhyphen"/>joy) to adhere unto them.</p>
+            <p>No Aſſizes without ſuch a Sheriffe, Jurie and Judges, as would take away the lives and eſtates, of the worthieſt perſons, in a worſe way, then by the ſword of Warre: for ſo (if their cauſe be good) they might dye as Martyrs; but in ſuch a forma<g ref="char:EOLhyphen"/>lity of juſtice, as they muſt come under, (if ſuch as thoſe get the upper, hand) they ſhall be firſt robbed of their innocency, and (that done) they muſt forfeit their lives, and all they have, (as convicted Malefactors) that was <hi>Nabothes</hi> caſe, under the ty<g ref="char:EOLhyphen"/>rannicall Raigne of <hi>Ahab</hi> and <hi>Jeſabell.</hi>
+            </p>
+            <p n="8">8. That theſe profeſſed enemies to all true Proteſtants in belief and life, have advanced ſo farre, in their way towards the ru<g ref="char:EOLhyphen"/>ine of the Kingdome;</p>
+            <p>Neither by the greatneſſe of their number, (for in their mu<g ref="char:EOLhyphen"/>ſters, they have many who hate their Conditions and carriage, in the preſent cauſe, and long to be delivered from the bondage, to which ſome relations of dependance have betrayed them.)</p>
+            <p>Nor by their power, for i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is very ſmall in reſpect of that, which is ingaged to the ſafegard of the whole Kingdome, from their deſtructive deſignes.</p>
+            <p>Nor by their courage, though many of them may be the more forward to fight, becauſe they have little to loſe, having forfeited their lives and eſtates to publique juſtice, which they hope to eſcape, rather by boldneſſe in Battaile (a boldneſſe more deſperate then valorous) then by yielding up themſelves to the tryall of the Parl: [much leſſe have they— any good ſucceſſe; by the goodneſſe of their Cauſe, which the more it is known, the more it is condemned by all truly wiſe and welminded men, and which at laſt muſt come to naught, (though for a time God may
+<pb facs="tcp:155635:4"/>ſuffer them (as he did the wicked <hi>Amorites</hi> to make up the mea<g ref="char:EOLhyphen"/>ſure of their iniquity) becauſe it is a moſt impious and bloudy Combination againſt God and the godly.</p>
+            <p>[But by their ſubtilty, <hi>in guilding over</hi> their trecherous intenti<g ref="char:EOLhyphen"/>ons towards the ſtate, with glorious pretences of dutifull vin<g ref="char:EOLhyphen"/>dication of Royall Majeſty, from unſufferable affronts and wrongs, <hi>and in defaming</hi> the defence (by the Law of Nature and Nations allowed to oppreſſed people) with the odious imputa<g ref="char:EOLhyphen"/>tion of Rebellion and Treaſon; [By falſifying their words and oathes, when by others credulity they were admitted to a power to doe miſchiefe; [By lying Relations to countenance their owne cauſe and party in Print, which are not Printed without their knowledge and againſt their wills, as thoſe Pamplets are, which ſeem to be publiſhed in favour, but indeed both diſpleaſe and diſhonour the Parliament, and that ſo much, that it is pro<g ref="char:EOLhyphen"/>bable (at leaſt of ſome of them) that they may be put out, by ſome Anti-parliamentary Polititians, to make the world believe that they make lyes their refuge, and ſo are no more to be be<g ref="char:EOLhyphen"/>lieved then themſelves; [by confident outfacing of any truth that makes againſt them; [by hypocriticall proteſtations of in<g ref="char:EOLhyphen"/>tegrity towards preſervation of the Proteſtant Religion, and the Realmes, and the preſumptuous appeale, to the majeſty of God, when they make them; [By witty and well-pend Decla<g ref="char:EOLhyphen"/>rations (wherein ſound reaſon and true Logick is drowned in the overflowings of Rhetorick, as Bees are ſometimes drowned in their owne Honey) giving as faire words as need to be ſpo<g ref="char:EOLhyphen"/>ken, to make the people content to put up as bad and injurious deeds, as ever were done in a Proteſtant Kingdome: by this means many are beguiled (if not rather bewitched) who are not of capacity to comprehend the whole ſtate and condition of the preſent Warre on both ſides, with the many cauſes whence it aroſe, the meanes by which it is promoted, and the ends wher<g ref="char:EOLhyphen"/>at they would have it arrive; [by terrible threats and outragious Acts (conjuring downe feeble ſpirits from their hearts to their heeles) [By intentive vigilancy for all advantages, and vigorous induſtry <hi>(Like his, who goeth about as a roaring Lyon, ſeeking whom
+<pb facs="tcp:155635:4"/>he may devour) by Civill</hi> Warre to bring that deſolation upon their Countrey, in a few Months, from which a whole age of peace cannot redeeme it; [But eſpecially by the inconſideration, and remiſnes of thoſe, who (while they enjoyed their owne e<g ref="char:EOLhyphen"/>ſtates free) were not apprehenſive of the ſpoyling of others, nor conſidered how ſoone it might come to their turne, to be rifled and robbed in like manner.</p>
+            <p n="9">9. That the Parliament (the repreſentative body of the whole Kingdome, and the great Councell of the King) having upon ſuch grounds as theſe, or ſome of them, concluded and reſolved, that it is not only lawfull but needfull to withſtand ſuch dan<g ref="char:EOLhyphen"/>gerous and deſperat invadors of our Proteſtant Religion, and our Engliſh Rights; we hold it our duties, to reſolve and preſently to put in practiſe, all juſt and warrantable wayes of Aſſociation and mutuall ayd, for the freedome of our ſelves, children, neigh<g ref="char:EOLhyphen"/>bours, and Countrey men from their lawleſſe luſts, and intolle<g ref="char:EOLhyphen"/>rable tyranny, as from a confederacy of theeves, murderers and Anabaptiſts, <hi>not of Chriſtian Anabaptiſts</hi> (who out of miſtaken charity would have all things common among believers) but of ſuch, as are Unchriſtian and Antichriſtian who would take a<g ref="char:EOLhyphen"/>way the bounds of mens proper intereſts, and being (in Condi<g ref="char:EOLhyphen"/>tion) like the wild Beaſt of the Forreſt, would breake downe all partition walls, and pales of propriety, that they may make ſpoyle of our Houſes, Gardens, Fields and pleaſant Paſtures, and finding the Land as a Garden of <hi>Eden</hi> before them, may leave it all behinde them as a deſolate Wilderneſſe, from whom wee cannot hope to be delivered by the ſervice of meere merce<g ref="char:EOLhyphen"/>nary ſword men (who take up the practiſe of killing for a trade of life) but chiefly by our owne undertakings, and the bleſſing of God upon our indeavors, and adventures, directed to his glory and welfare of our Country.</p>
+            <p n="10">10. That (not medling with any diſputable points of queſtioned priviledges) we will ingage our ſelves (according to the duty we owe to chriſtian piety and common humanity) to a juſt defence of our own and our fellow Sub<g ref="char:EOLhyphen"/>jects undoubted rights, eſpecially in theſe particulars.</p>
+            <p n="1">1. That the Miniſters and people of <hi>England</hi> may ſociably and ſafely meet for the celebration of Gods publique worſhip, and the ſalvation of their ſoules, without fear of violent attempts and aſſaults upon their bodies, w<hi rend="sup">ch</hi>
+               <pb facs="tcp:155635:5"/>are moſt endangered on the dayes of their ſolemne aſſemblies, whereof the ſons of <hi>Belial</hi> make an eſpeciall choice for cruell encounters, having no re<g ref="char:EOLhyphen"/>ſpect at all to the Lords day, unleſſe it be to make the Dominicall Letter a Symball of bloody ſlaughters of the Lords ſervants.</p>
+            <p n="2">2. That every one may enjoy that particular portion of comfort in his wife, children, and eſtate which God hath given him.</p>
+            <p n="3">3. That Tillage, without which, neither King nor people can be ſuppor<g ref="char:EOLhyphen"/>ted, may not be interrupted by giving the Husbandman cauſe to fear, that the pains and coſt of ſeed time, ſhall not be recompenced by an harveſt.</p>
+            <p n="4">4. That the proviſion of corne, in Barnes and Garneries, may not injuri<g ref="char:EOLhyphen"/>ouſly be taken from the owners, nor waſtfully beſtowed upon beaſts, where<g ref="char:EOLhyphen"/>by a famine may be like to be brought upon men.</p>
+            <p n="5">5. That the high wayes may be ſafe for entercourſe of poſts, carriers, and other travellers, upon their juſt and lawfull occaſions.</p>
+            <p n="6">6. That markets and other meanes of common commerce for the generall benefit of the Kingdom may be continued, without force or fear of armed enemies of the Kingdom, in Cities and Towns of moſt trade and traffique.</p>
+            <p n="7">7. That Juſtice may be done upon ſuch, as make no ſcruple (but rather make it their delight and glory) to undoe the beſt affected and behaved people of the Land: and that while poor theeves for petty pilferies, (prick<g ref="char:EOLhyphen"/>ed on unto them happily by the ſharp goade of neceſſity) are kept in raggs, fettors and dungeons, ſuch great theeves and burgliers may not be ſuffered to ride in ſcarlet, and to range about and rob and ſpoile at their pleaſures, as now they do, to the great ſcorn and contumelie, of the juſtice of the King and Parliament, and of all the judicatories of the Kingdom.</p>
+            <p>And while we take up arms to theſe ends, we hold our ſelves not more bound (with our hands) to reſiſt the perſonall aſſaults of ſuch pernicious enemies, then with our true manners to oppoſe theirs, their bold impieties with our lawfull fear of the Maieſty of God, their prophaneſſe with our ho<g ref="char:EOLhyphen"/>lineſſe of life, their deſperate and <hi>God damne-me Oaths</hi> and execrations, with our making ſcruple conſcience of an Oath; their unruly luſts, and cor<g ref="char:EOLhyphen"/>cupiſcence with our regular continence, their drunkenneſſe with our ſe<g ref="char:EOLhyphen"/>brietie, their unreaſonable rapine with our equitable iuſtice; their violence and boldneſſe with as much moderation and mildneſſe on our part, as the neceſſary defence of ſo good a cauſe, and ſo many good people will poſſibly permit. And in all this we ſhall endeavour faithfully to perform, the duty we owe to God, the King, Parliament and people of His Majeſties Domi<g ref="char:EOLhyphen"/>nions, <hi>Deeply charged</hi> upon us, by our late ſolemne Proteſtation; and while we do this we will encourage our ſelves in the ſervice by the words of holy <hi>Hezekiah</hi> (as pertinent to us in our preſent cauſe and condition) <hi>Be ſtrong and couragious, be not afraid or diſmayed at the number or power of your enemies, for there be more with us then with them, with them is an arm of fleſh, but with us is the Lord our God to helpe us, and to fight our Battells, and the peo<g ref="char:EOLhyphen"/>ple reſted themſelves upon theſe words.</hi> 2 Chr. 32.7, 8. And ſo will we do. <hi>Finis.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
